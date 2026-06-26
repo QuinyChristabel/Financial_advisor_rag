@@ -78,4 +78,4 @@ Annual Reports (PDFs)
 ---
 Financial Research Assistant using RAG | ChromaDB • LangChain • Qwen3 (Ollama) • Streamlit • Semantic Search for Multi-Company Annual Report Analysis
 
-This presents the project as a complete AI application rather than just a "chat with PDF" demo, which is much more compelling for recruiters and hiring managers.
+Refer the screenshot for the structure of this project
